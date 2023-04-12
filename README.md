@@ -16,7 +16,7 @@ This site will not only establish an online presence, but foster a new brand ide
 
 | Activity | Time | Description | Link | Hours |
 | ---- | ---- | ----------- | -------|----|
-| Youtube video | 11:53am - 1:45pm 2:45 - 4:00 PM | "Build and deplay a fully responsive website with modern UI/UX in REACT | <a href="https://www.youtube.com/watch?v=_oO4Qi5aVZs">YouTube Link</a> | 3.12
+| Youtube video | 11:53am - 1:45pm 2:45 - 4:00 PM | "Build and deplay a fully responsive website with modern UI/UX in REACT" Last timestamp = 52:46 | <a href="https://www.youtube.com/watch?v=_oO4Qi5aVZs">YouTube Link</a> | 3.12
 |  |  |  | |
 |  |  |  | |
 |  |  |  | |
